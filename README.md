@@ -1,3 +1,4 @@
 # Monkey-Smash
 A simple graphic game
-`run ./a.out` 
+build the headhitter.c module.
+`gcc headhitter.c`
